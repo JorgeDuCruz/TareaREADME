@@ -12,3 +12,6 @@ _Eso es mentira_
 ***Oye a mi no me mandas**<sub>_No otra vez_</sub><sup>**jaja más quisieras**</sup>  
 > Hola que tal
 
+`/kill@` 
+
+![Explosión](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Operation_Upshot-Knothole_-_Badger_001.jpg/1024px-Operation_Upshot-Knothole_-_Badger_001.jpg)
